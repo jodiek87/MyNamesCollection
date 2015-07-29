@@ -1,0 +1,124 @@
+body{
+margin:0px;
+}
+img{
+position:absolute;
+z-index:-1;
+width:100%;
+height:100%;
+}
+
+.Hello{
+font-size:30px;
+
+}
+
+.YourEnglish{
+display:none;
+position:relative;
+left:20px;
+
+
+}
+
+.EnglishClick{
+text-decoration:underline;
+}
+
+.Seven{
+text-decoration:underline;
+}
+
+.Shy1{
+display:none;
+width:10px;
+font-size:4px;
+text-decoration:underline;
+}
+
+.Mom {
+	display:none;
+	position:absolute;
+	top:80px;
+	left:20px;
+	padding:5px;
+    border: 2px solid;
+    border-radius: 25px;
+} 
+
+.Shy2{
+display:none;
+position:relative;
+top:50px;
+width:10px;
+font-size:4px;
+text-decoration:underline;
+}
+
+.MomClick{
+text-decoration:underline;
+}
+
+.Mom2 {
+	display:none;
+	position:absolute;
+	top:140px;
+	left:20px;
+	padding:5px;
+    border: 2px solid;
+    border-radius: 25px;
+} 
+
+.Mom3 {
+	display:none;
+
+font-size:40px;
+	position:absolute;
+	top:170px;
+	left:400px;
+	font-size:20px;
+	width:100px;
+	padding:5px;
+    border: 2px dotted;
+    border-radius: 25px;
+} 
+
+.Shy3{
+display:none;
+    border-radius: 25px;
+    font-size:4px;
+    text-decoration:underline;
+    width:40px;
+    padding:3px;
+    position:absolute;
+    left:514px;
+    top:232px;
+}
+
+
+.Mom4 {
+	display:none;
+font-size:40px;
+	position:absolute;
+	top:266px;
+	left:520px;
+	font-size:20px;
+	width:100px;
+	padding:5px;
+    border: 2px dotted;
+    border-radius: 25px;
+} 
+
+.Mom5 {
+	display:none;
+	position:absolute;
+	top:400px;
+	left:20px;
+	padding:5px;
+    border: 2px solid;
+    border-radius: 25px;
+} 
+
+.friends{
+text-decoration:underline;
+}
